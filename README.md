@@ -19,6 +19,6 @@ const myBot = new TeleBot({
     }
 });
 
-# build for production with minification
-npm run build
+# Runing the bot
+node index.js
 ```
