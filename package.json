@@ -1,0 +1,13 @@
+{
+    "name": "Bot Telegram",
+    "version": "3.0.0",
+    "description": "Bot Chat Telegram Example For Inventory",
+    "author": "Aldo Abellto",
+    "devDependencies": {
+      
+    },
+    "dependencies": {
+      "telebot": "^1.2.6"
+    }
+  }
+  
