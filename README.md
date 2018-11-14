@@ -1,1 +1,1 @@
-# example_bot_telegram_inventory
+# Example Bot Telegram Inventory Using NodeJS
